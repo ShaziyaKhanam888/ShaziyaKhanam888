@@ -18,17 +18,15 @@ I’m a **frontend developer** passionate about crafting beautiful, user-friendl
 ---
 
 ### 💻 My Projects
-- [**To-Do List App**](https://github.com/ShaziyaKhanam888/todo-list) - A responsive to-do list app with task management features.
-- [**Calculator**](https://github.com/ShaziyaKhanam888/Calculator) - A dynamic calculator built using JavaScript.
-- [**Quiz Game**](https://github.com/ShaziyaKhanam888/quiz-game) - Interactive quiz game with real-time score updates.
 - [**Portfolio Website**](https://github.com/ShaziyaKhanam888/portfolio) - My personal portfolio showcasing my skills and projects.
-
+- [**To-Do List App**](https://github.com/ShaziyaKhanam888/todo-list) - A responsive to-do list app with task management features.
+ - [**Quiz Game**](https://github.com/ShaziyaKhanam888/quiz-game) - Interactive quiz game with real-time score updates.
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaziyaKhanam888&show_icons=true&theme=calm" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaziyaKhanam888&theme=calm" alt="GitHub Streak" width="48%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaziyaKhanam888&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
