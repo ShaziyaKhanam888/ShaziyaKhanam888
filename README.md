@@ -1,12 +1,15 @@
  # 👋 Hi, I'm Shaziya Khanam
- 
- ![Profile Views](https://komarev.com/ghpvc/?username=ShaziyaKhanam888&color=blue&style=flat)
 
 ### 🌟 About Me
 I’m a **frontend developer** passionate about crafting beautiful, user-friendly web experiences. My expertise lies in:
 - **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for building responsive websites.
 - **Core Java** and **SQL** for backend development.
 - Exploring **Generative AI tools** like ChatGPT and Gemini AI.
+
+---
+
+### ✨ My Portfolio
+Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.app), showcasing my skills and projects in a modern, responsive design.
 
 ---
 
@@ -18,23 +21,34 @@ I’m a **frontend developer** passionate about crafting beautiful, user-friendl
 ---
 
 ### 💻 My Projects
-- [**Portfolio Website**](https://github.com/ShaziyaKhanam888/portfolio) - My personal portfolio showcasing my skills and projects.
-- [**To-Do List App**](https://github.com/ShaziyaKhanam888/todo-list) - A responsive to-do list app with task management features.
- - [**Quiz Game**](https://github.com/ShaziyaKhanam888/quiz-game) - Interactive quiz game with real-time score updates.
+- **To-Do List App**  
+  [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/todo-list)  
+  A responsive to-do list app with task management features.
+
+- **Calculator**  
+  [Live Demo](https://simple-calculator-2024.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/calculator)  
+  A dynamic calculator built using JavaScript.
+
+- **Quiz Game**  
+  [Live Demo](https://quizgame-master.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/quiz-game)  
+  Interactive quiz game with real-time score updates.
+
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaziyaKhanam888&show_icons=true&theme=calm" alt="GitHub Stats" width="48%" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaziyaKhanam888&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaziyaKhanam888&theme=calm" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shaziya-khanam)  
-- Email: [khanamshaziya888@gmail.com](mailto:khanamshaziya888@gmail.com)  
-- [GitHub Profile](https://github.com/ShaziyaKhanam888)
+- Email: [shaziyakhanam@example.com](mailto:shaziyakhanam@example.com)  
+- [GitHub Profile](https://github.com/ShaziyaKhanam888)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShaziyaKhanam888&color=blue&style=flat)
 
 ---
 
