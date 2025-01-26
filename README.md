@@ -21,18 +21,17 @@ Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.
 ---
 
 ### 💻 My Projects
+- **Quiz Game**  
+  [Live Demo](https://quizgame-master.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/Quiz_Game_Web_App)  
+  Interactive quiz game with real-time score updates.
+
 - **To-Do List App**  
-  [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/todo-list)  
+  [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/To-Do-List)  
   A responsive to-do list app with task management features.
 
 - **Calculator**  
-  [Live Demo](https://simple-calculator-2024.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/calculator)  
+  [Live Demo](https://simple-calculator-2024.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/Calculator)  
   A dynamic calculator built using JavaScript.
-
-- **Quiz Game**  
-  [Live Demo](https://quizgame-master.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/quiz-game)  
-  Interactive quiz game with real-time score updates.
-
 ---
 
 ### 📊 GitHub Stats
