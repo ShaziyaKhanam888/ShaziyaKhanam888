@@ -34,10 +34,10 @@ Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.
   A dynamic calculator built using JavaScript.
 ---
 
-### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaziyaKhanam888&show_icons=true&theme=calm" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/api?username=ShaziyaKhanam888&show_icons=true&theme=calm" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaziyaKhanam888&theme=calm" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
