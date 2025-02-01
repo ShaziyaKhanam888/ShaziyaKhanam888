@@ -22,8 +22,8 @@ Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.
 
 ### 💻 My Projects
 - **Quiz Game**  
-  [Live Demo](https://quizgame-master.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/Quiz_Game_Web_App)  
-  Interactive quiz game with real-time score updates.
+  [Live Demo](https://quiz-game-levelup.netlify.app/) | [Source Code](https://github.com/ShaziyaKhanam888/Ultimate_Quiz_Game)  
+  Interactive quiz game with score updates.
 
 - **To-Do List App**  
   [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/To-Do-List)  
