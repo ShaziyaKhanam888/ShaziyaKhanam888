@@ -26,8 +26,8 @@ Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.
   Interactive quiz game with score updates.
   
 - **Weather Web App**  
-  [Live Demo](https://simple-calculator-2024.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/Calculator)  
-  A dynamic calculator built using JavaScript.
+  [Live Demo](https://climatecheck-it.netlify.app/) | [Source Code](https://github.com/ShaziyaKhanam888/Weather_Web_App)  
+  A simple weather web application that fetches real-time weather data using the OpenWeather API. 
   
 - **To-Do List App**  
   [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/To-Do-List)  
