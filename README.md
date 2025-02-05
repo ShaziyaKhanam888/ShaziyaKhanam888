@@ -24,14 +24,15 @@ Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.
 - **Quiz Game**  
   [Live Demo](https://quiz-game-levelup.netlify.app/) | [Source Code](https://github.com/ShaziyaKhanam888/Ultimate_Quiz_Game)  
   Interactive quiz game with score updates.
-
+  
+- **Weather Web App**  
+  [Live Demo](https://simple-calculator-2024.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/Calculator)  
+  A dynamic calculator built using JavaScript.
+  
 - **To-Do List App**  
   [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/To-Do-List)  
   A responsive to-do list app with task management features.
 
-- **Calculator**  
-  [Live Demo](https://simple-calculator-2024.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/Calculator)  
-  A dynamic calculator built using JavaScript.
 ---
 
  ### 📊 GitHub Stats
