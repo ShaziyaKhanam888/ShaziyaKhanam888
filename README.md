@@ -44,7 +44,7 @@ Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/shaziya-khanam-26ba48258/))
+- [LinkedIn](https://www.linkedin.com/in/shaziya-khanam-26ba48258/)
 - Email: [khanamshaziya888@gmail.com](mailto:khanamshaziya888@gmail.com)
 - [GitHub Profile](https://github.com/ShaziyaKhanam888)  
 
