@@ -1,37 +1,31 @@
  # 👋 Hi, I'm Shaziya Khanam
-
-### 🌟 About Me
-I’m a **frontend developer** passionate about crafting beautiful, user-friendly web experiences. My expertise lies in:
-- **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for building responsive websites.
-- **Core Java** and **SQL** for backend development.
-- Exploring **Generative AI tools** like ChatGPT and Gemini AI.
-
----
-
-### ✨ My Portfolio
-Check out my [**Portfolio Website**](https://shaziya-personal-portfolio.netlify.app), showcasing my skills and projects in a modern, responsive design.
+Frontend Developer | React | JavaScript | HTML & CSS
 
 ---
 
 ### 🚀 Skills
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** Core Java, SQL  
-- **AI Tools:** ChatGPT, Gemini AI  
+- **Proficient:** React, HTML5, CSS3, JavaScript, Responsive Design
+- **Familiar:** Tailwind CSS, Bootstrap, REST APIs, SQL
+- **Tools:** Git, GitHub, Netlify, ChatGPT, GitHub Copilot
 
 ---
 
-### 💻 My Projects
-- **Quiz Game**  
-  [Live Demo](https://quiz-game-levelup.netlify.app/) | [Source Code](https://github.com/ShaziyaKhanam888/Ultimate_Quiz_Game)  
-  Interactive quiz game with score updates.
-  
-- **Weather Web App**  
-  [Live Demo](https://climatecheck-it.netlify.app/) | [Source Code](https://github.com/ShaziyaKhanam888/Weather_Web_App)  
-  A simple weather web application that fetches real-time weather data using the OpenWeather API. 
-  
-- **To-Do List App**  
-  [Live Demo](https://mark-todo-list.netlify.app) | [Source Code](https://github.com/ShaziyaKhanam888/To-Do-List)  
-  A responsive to-do list app with task management features.
+### 💻 Projects
+
+**Course Explorer** — [Live](https://course-explorer.netlify.app/)
+React + Tailwind CSS learning dashboard with progress tracking and LocalStorage
+
+**AI Landing Page** — [Live](https://aiservicelanding.netlify.app/)
+React landing page with reusable components, popup form, and smooth scroll
+
+**Weather Web App** — [Live](https://climatecheck-it.netlify.app/)
+JavaScript app with real-time weather API integration
+
+---
+
+### 📜 Certifications
+- Frontend Development — Coding Ninjas (2024)
+- Generative AI — Coding Ninjas (2024)
 
 ---
 
