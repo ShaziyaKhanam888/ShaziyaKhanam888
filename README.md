@@ -12,7 +12,10 @@ Frontend Developer | React | JavaScript | HTML & CSS
 
 ### 💻 Projects
 
-**Product Admin Dashboard** - Next.js, React, JavaScript and Tailwind CSS dashboard
+**Product Admin Dashboard** - [Live]https://github.com/ShaziyaKhanam888/Product-Admin_Dasboard
+Next.js, React, JavaScript and Tailwind CSS dashboard
+
+
 **Course Explorer** — [Live](https://course-explorer.netlify.app/)
 React + Tailwind CSS learning dashboard with progress tracking and LocalStorage
 
