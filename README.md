@@ -12,14 +12,9 @@ Frontend Developer | React | JavaScript | HTML & CSS
 
 ### 💻 Projects
 
+**Product Admin Dashboard** - Next.js, React, JavaScript and Tailwind CSS dashboard
 **Course Explorer** — [Live](https://course-explorer.netlify.app/)
 React + Tailwind CSS learning dashboard with progress tracking and LocalStorage
-
-**AI Landing Page** — [Live](https://aiservicelanding.netlify.app/)
-React landing page with reusable components, popup form, and smooth scroll
-
-**Weather Web App** — [Live](https://climatecheck-it.netlify.app/)
-JavaScript app with real-time weather API integration
 
 ---
 
