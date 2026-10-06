@@ -4,8 +4,8 @@ Frontend Developer | React | JavaScript | HTML & CSS
 ---
 
 ### 🚀 Skills
-- **Proficient:**  HTML5, CSS3, JavaScript, Responsive Design
-- **Familiar:** React, Tailwind CSS, Bootstrap, REST APIs, SQL
+- **Proficient:**  HTML5, CSS3, JavaScript,React, REST APIs, SQL  Responsive Design
+- **Frameworks:** Next.js, Tailwind CSS, Bootstrap 
 - **Tools:** Git, GitHub, Netlify, ChatGPT, GitHub Copilot
 
 ---
